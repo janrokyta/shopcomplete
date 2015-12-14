@@ -47,7 +47,7 @@ VALUES
 ('motor', '', null),
 ('náplně', '', null),
 ('oleje', '', 6),
-('chladiva', '', 6)
+('chladiva', '', 6),
 ('dětské', '', 3)
 
 INSERT INTO Items (item_name,
