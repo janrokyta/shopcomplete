@@ -67,7 +67,7 @@ VALUES
 ('alternátor', '', 5),
 ('poloosa', '', 1),
 ('autobaterie', '85Ah', 3),
-('tlumič', '', 1)
+('tlumič', '', 1),
 ('olej', 'kastról', 7),
 ('směs do ostřikovačů', '85Ah', 6),
 ('destilka', '', 8)
